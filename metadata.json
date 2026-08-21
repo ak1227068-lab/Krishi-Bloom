@@ -1,0 +1,8 @@
+{
+  "name": "Krishi Bloom",
+  "description": "Digital agriculture platform for farmers and agriculture students in India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
